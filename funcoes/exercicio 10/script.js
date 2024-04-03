@@ -13,6 +13,6 @@ function decrementa(x){
 }
 
 
-let numero = Number(prompt('digite um numero: '));
+let numero = Number(prompt('digite um número: '));
 
 decrementa(numero);
